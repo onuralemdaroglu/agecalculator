@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    margin: 10%;
+}
+
+.box {
+    font-size: 3.8rem;
+}
+
+.frm1 {
+    font-size: 1.2rem;
+    width: 220px;
+}
+
+.btn {
+    font-size: 1.1rem;
+}
+
+.btn.active {
+    color: black;
+    border: 1;
+    border-radius: 1px solid  #666;
+}
